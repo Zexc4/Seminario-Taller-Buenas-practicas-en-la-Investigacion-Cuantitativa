@@ -48,40 +48,37 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 
 ### **Horario de Expositores y Temas**
 
-| **Día**         | **Hora**            | **Tema**                                               | **Facilitador**                                    | **Modalidad** |
-|-----------------|---------------------|--------------------------------------------------------|--------------------------------------------------|---------------|
-| **8 de septiembre** | 08h30 a 10h30       | Epistemología de la Investigación Cuantitativa         | Dr. Carlos Mayorga, Facultad de Ciencias Químicas | Presencial    |
-| **8 de septiembre** | 10h30 a 13h30       | Tipos de Investigación Cuantitativa                     | Dr. Carlos Mayorga, Facultad de Ciencias Químicas | Presencial    |
-| **9 de septiembre** | 08h30 a 10h30       | Población y Muestra                                   | Dr. Jorge Arroba Rimassa, Facultad de Ciencias Aplicadas | Presencial    |
-| **9 de septiembre** | 10h30 a 13h30       | Diseño de Instrumento                                  | Dr. Roberto Ortiz, Facultad de Ciencias Económicas | Presencial    |
-| **10 de septiembre**| 08h30 a 13h30       | Diseño de Instrumento (Cuestionario)                   | Dr. Roberto Ortiz, Facultad de Ciencias Económicas | Virtual       |
-| **10 de septiembre**| 10h30 a 13h30       | Introducción a Python                                  | Ing. Jonathan Sánchez, Centro de Física           | Virtual       |
-| **11 de septiembre**| 19h00 a 21h00       | Enfoques educativos y pedagógicos en el Bicentenario de la Fundación Republicana | MSc. Edgar Isch, Director General Académico       | Virtual       |
+| **Día**         | **Hora**            | **Tema**                                                                             | **Facilitador**                                           | **Modalidad** |
+|-----------------|---------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------|
+| **8 de septiembre** | 11h30 a 13h30       | Epistemología de la Investigación Cuantitativa                                   | Dr. Carlos Mayorga, Facultad de Ciencias Químicas         | Presencial    |
+| **9 de septiembre** | 08h30 a 13h30       | Tipos de Investigación Cuantitativa                                              | Dr. Carlos Mayorga, Facultad de Ciencias Químicas         | Presencial    |
+| **9 de septiembre** | -                   | Población y Muestra                                                              | Dr. Jorge Arroba Rimassa, Facultad de Ciencias Aplicadas  | Presencial    |
+| **9 de septiembre** | -                   | Diseño de Instrumento                                                            | Dr. Roberto Ortiz, Facultad de Ciencias Económicas        | Presencial    |
+| **10 de septiembre**| 08h30 a 13h30       | Diseño de Instrumento (Cuestionario)                                             | Dr. Roberto Ortiz, Facultad de Ciencias Económicas        | Virtual       |
+| **10 de septiembre**| 10h30 a 13h30       | Introducción a Python                                                            | Ing. Jonathan Sánchez, Centro de Física                   | Virtual       |
+| **11 de septiembre**| 19h00 a 21h00       | Enfoques educativos y pedagógicos en el Bicentenario de la Fundación Republicana | MSc. Edgar Isch, Director General Académico               | Virtual       |
 
 ---
 
-## **Recursos Utilizados por el Dr. Carlos Mayorga**
+## **Recursos Utilizados **
 
 <div align="center">
 
-| Tema                                          | Subtema                                      | Horas             | 
-|-----------------------------------------------|----------------------------------------------|-------------------|
-| **Epistemología de la Investigación Cuantitativa** | Introducción a la Epistemología               | 08h30 a 08h50     |        
-|                                               | Confiabilidad y validez                       | 08h50 a 09h20     |              
-|                                               | Identificación de variables                   | 09h20 a 09h45     |              
-|                                               | Alcances                                      | 09h45 a 10h13     |                         
-| **Tipos de Investigación Cuantitativa**             | Investigación Experimental                     | 10h30 a 11h10     |          
-|                                               | Investigación Cuasi-experimental               | 11h10 a 11h50     |              
-|                                               | Investigación No Experimental                  | 11h50 a 12h20     |              
-|                                               | Ejemplos prácticos (PCA, ANOVA, Tukey)        | 12h20 a 13h30     |              
-
-
-
-
+| Tema                                                | Subtema                                        | Horas             | 
+|-----------------------------------------------------|------------------------------------------------|-------------------|
+| **Epistemología de la Investigación Cuantitativa**  | _Introducción a la Epistemología_              | 11h30 a 12h00     |        
+|                                                     | _Confiabilidad y validez_                      | 12h00 a 12h20     |              
+|                                                     | _Identificación de variables_                  | 12h20 a 12h45     |              
+|                                                     | _Alcances_                                     | 12h45 a 13:30     |                         
+| **Tipos de Investigación Cuantitativa**             | _Investigación Experimental_                   | 08h30 a 09h30     |          
+|                                                     | _Investigación Cuasi-experimental_             | 09h30 a 10h30     |              
+|                                                     | _Investigación No Experimental_                | 10h30 a 12h20     |              
+|                                                     | _Ejemplos prácticos (PCA, ANOVA, Tukey)_       | 12h20 a 13h30     |           
 </div>
 
 
-* [Presentación Jupyter Notebook](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Analisis_Cuanti.ipynb)
+* [Presentación día 1](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Analisis_Cuanti.ipynb)
+* [Presentación día 2](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Analisis_Cuanti.ipynb)
 * [Scripts de los Ejemplos](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts)
 * [Cuaderno de   Ejercicios](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts/Ejercicios_de_Evaluaci%C3%B3n.ipynb)
 * [Dataset para PCA](https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv)  
