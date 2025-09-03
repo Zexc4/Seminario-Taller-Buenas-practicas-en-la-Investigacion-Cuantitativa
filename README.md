@@ -60,7 +60,7 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 
 ---
 
-## **Recursos Utilizados **
+## **Recursos Utilizados**
 
 <div align="center">
 
