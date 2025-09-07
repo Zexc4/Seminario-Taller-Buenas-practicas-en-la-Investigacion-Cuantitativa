@@ -78,10 +78,10 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 
 
 * [Jupyter Notebook - Día 1](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Dia_1_Fundamentos_Cuantitativos_Epistemol%C3%B3gicos_%20Validaci%C3%B3n_Experimental_%20Ciencia_%20Ingenier%C3%ADa.ipynb)
-* [Jupyter Notebook - Día 2](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Dia_2_Herramienta_%20Cuantitativas_Exploratorias_An%C3%A1lisis_Modelado_Ciencia_Ingenier%C3%ADa.ipynb)
-* [Scripts de los Ejemplos](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts)
 * [Cuaderno de Ejercicios - Día 1](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_1_Ejercicios_de_Evaluaci%C3%B3n.ipynb)
+* [Jupyter Notebook - Día 2](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Dia_2_Herramienta_%20Cuantitativas_Exploratorias_An%C3%A1lisis_Modelado_Ciencia_Ingenier%C3%ADa.ipynb)
 * [Cuaderno de Ejercicios - Día 2](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_2_Ejercicios_de_Evaluaci%C3%B3n.ipynb)
+* [Scripts de los Ejemplos](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts)
 * [Dataset para PCA](https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv)
 * [Datasets Malware Detection](https://www.kaggle.com/datasets/nsaravana/malware-detection)
 * [Tesis - Mayorga Carlos (2024) ](https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf)                                                                     
