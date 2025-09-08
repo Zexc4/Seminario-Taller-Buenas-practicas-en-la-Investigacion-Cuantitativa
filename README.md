@@ -199,7 +199,6 @@ Facultad de Ciencias Químicas, Universidad Central del Ecuador
 <br>
 <p align="center">
     <a href="mailto:cj.carlosjulio@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-  	<a href="mailto:cjmayorga@uce.edu.ec" target="_blank"><img alt="Messenger" src="	https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/carlos-mayorga-85a14b63/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
     <a href="https://wa.me/593998917401" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
