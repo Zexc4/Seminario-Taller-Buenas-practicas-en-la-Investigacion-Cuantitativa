@@ -156,7 +156,7 @@ La investigación cuantitativa es fundamental para la generación de conocimient
       <td>
         • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Dia_1_Fundamentos_Cuantitativos_Epistemol%C3%B3gicos_%20Validaci%C3%B3n_Experimental_%20Ciencia_%20Ingenier%C3%ADa.ipynb">Jupyter Notebook</a><br />
         • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_1_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts"><em>Scripts (compartidos)</em></a><br />
+        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis-Carlos Mayorga</a>
       </td>
     </tr>
@@ -176,7 +176,7 @@ La investigación cuantitativa es fundamental para la generación de conocimient
         • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Scripts%20Ejercicios/Dia_2_Ejercicios_de_Evaluaci%C3%B3n.ipynb">Cuaderno de Trabajo</a><br />
         • <a href="https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv">PCA Dataset</a><br />
         • <a href="https://www.kaggle.com/datasets/nsaravana/malware-detection">Malware-Detection Dataset</a><br />
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts"><em>Scripts (compartidos)</em></a><br />
+        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis-Carlos Mayorga</a>
       </td>
     </tr>
