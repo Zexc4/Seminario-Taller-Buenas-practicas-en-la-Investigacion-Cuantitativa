@@ -221,5 +221,5 @@ Para más detalles, consulta la licencia completa en [Creative Commons](https://
 
 <br>
 <p align="center">
-    <a href="https://github.com/Zexc4/Programming_Fundamentals" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Programming_Fundamentals?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa?label=profile%20updated&style=flat-square"></a>
 </p>
