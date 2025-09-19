@@ -131,7 +131,7 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 
 ---
 
-## **Recursos Académicos – Dr. Carlos Mayorga**
+## **Recursos Taller – Dr. Carlos Mayorga**
 
 <div align="center">
   <table border="1" cellspacing="0" cellpadding="6" width="100%">
@@ -178,6 +178,57 @@ La investigación cuantitativa es fundamental para la generación de conocimient
         • <a href="https://www.kaggle.com/datasets/nsaravana/malware-detection">Malware-Detection Dataset</a><br />
         • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/tree/main/Scripts%20Ejemplos"><em>Scripts (compartidos)</em></a><br />
         • <a href="https://www.amarun.org/images/amarun/materiales/tesis-doctorales/2024_Mayorga_Carlos.pdf">Tesis-Carlos Mayorga</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## **Recursos Facultad de Ciencias Químicas**
+
+<div align="center">
+  <table border="1" cellspacing="0" cellpadding="6" width="100%">
+    <tr>
+      <th width="12%">Día</th>
+      <th width="12%">Hora</th>
+      <th width="22%">Bloque Académico</th>
+      <th>Tema</th> <!-- Sin ancho para que sea flexible -->
+      <th width="200px">Recursos</th> <!-- ancho fijo -->
+    </tr>
+    <!-- 10 de septiembre -->
+    <tr>
+      <td>10 de septiembre<br />Presencial</td>
+      <td>10h30 a 13h30</td>
+      <td>Aplicaciones de Python en Ciencia, Ingeniería y Datos con Google Colab</td>
+      <td>
+        Fundamentos de Python<br />
+        &nbsp;&nbsp;&nbsp;• Manejo de Archivos en Colab<br />
+        &nbsp;&nbsp;&nbsp;• Librerías Fundamentales para Análisis<br />
+        &nbsp;&nbsp;&nbsp;• Análisis Estadístico y Numérico Aplicado </br>
+        &nbsp;&nbsp;&nbsp;• Conceptos Clave y Buenas Prácticas
+      </td>
+      <td>
+        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Introduccion_Python.ipynb">Jupyter Notebook</a><br />
+      </td>
+    </tr>
+    <!-- 11 de septiembre -->
+    <tr>
+      <td>11 de septiembre<br />Virtual</td>
+      <td>Por Definir</td>
+      <td>Aplicaciones</td>
+      <td>
+        Tipos de investigación cuantitativa<br />
+        &nbsp;&nbsp;&nbsp;• Experimental<br />
+        &nbsp;&nbsp;&nbsp;• Cuasi experimental<br />
+        &nbsp;&nbsp;&nbsp;• Ejemplos prácticos
+      </td>
+      <td>
+        • <a href="">Jupyter Notebook</a><br />
+        • <a href="">Cuaderno de Trabajo</a><br />
+        • <a href="https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv">PCA Dataset</a><br />
+        • <a href=""> Dataset 3</a><br />
+        • <a href="">Dataset 3</a><br />
       </td>
     </tr>
   </table>
