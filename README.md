@@ -8,7 +8,7 @@
 <br>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=Visitas%20Repositorio&countColor=%23EA4335&style=flat&labelStyle=none&left_color=green&right_color=green)
-[![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/LICENSE)
 ![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
 ![GitHub Repo stars](https://img.shields.io/github/stars/henriquesebastiao/badges)
 
@@ -207,7 +207,7 @@ Facultad de Ciencias Químicas, Universidad Central del Ecuador
 
 ## Licencia
 
-Este seminario-taller está organizado por la Universidad Central del Ecuador y se encuentra bajo la Licencia [MIT](https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/LICENSE).
+Este seminario-taller está organizado por la Universidad Central del Ecuador y se encuentra bajo la Licencia [MIT](https://github.com/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/LICENSE).
 
 Esto significa que:
 
@@ -222,5 +222,5 @@ Para más detalles, puedes consultar la licencia completa en: [https://opensourc
 
 <br>
 <p align="center">
-    <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa?label=profile%20updated&style=flat-square"></a>
+    <a href="https://github.com/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa?label=profile%20updated&style=flat-square"></a>
 </p>
