@@ -9,7 +9,8 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhenriquesebastiao%2Fbadges&label=Visitas%20Repositorio&countColor=%23EA4335&style=flat&labelStyle=none&left_color=green&right_color=green)
 [![GitHub License](https://img.shields.io/github/license/henriquesebastiao/badges?color=blue)](https://github.com/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/LICENSE)
-![Markdown](https://img.shields.io/badge/Markdown-ffffff?style=flat&logo=markdown&logoColor=black)
+<a href="https://github.com/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa?label=profile%20updated&style=flat-square"></a>
+![Forks](https://img.shields.io/github/forks/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa)
 ![GitHub Repo stars](https://img.shields.io/github/stars/f0xpl0it)
 
 </div>
@@ -190,21 +191,6 @@ La investigación cuantitativa es fundamental para la generación de conocimient
 
 ---
 
-## Contacto
-
-**Dr. Carlos Julio Mayorga Arias**  
-Facultad de Ciencias Químicas, Universidad Central del Ecuador  
-
-<br>
-<p align="center">
-    <a href="mailto:cj.carlosjulio@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/carlos-mayorga-85a14b63/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="https://wa.me/593998917401" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
-</p>
-
-
----
-
 ## Licencia
 
 Este seminario-taller está organizado por la Universidad Central del Ecuador y se encuentra bajo la Licencia [MIT](https://github.com/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/LICENSE).
@@ -219,8 +205,16 @@ Esto significa que:
 
 Para más detalles, puedes consultar la licencia completa en: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
+---
+
+## Contacto
+
+**Dr. Carlos Julio Mayorga Arias**  
+Facultad de Ciencias Químicas, Universidad Central del Ecuador  
 
 <br>
 <p align="center">
-    <a href="https://github.com/f0xpl0it/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa?label=profile%20updated&style=flat-square"></a>
+    <a href="mailto:cj.carlosjulio@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/carlos-mayorga-85a14b63/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+    <a href="https://wa.me/593998917401" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"></a>
 </p>
