@@ -181,59 +181,7 @@ La investigación cuantitativa es fundamental para la generación de conocimient
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## **Recursos Facultad de Ciencias Químicas**
-
-<div align="center">
-  <table border="1" cellspacing="0" cellpadding="6" width="100%">
-    <tr>
-      <th width="12%">Día</th>
-      <th width="12%">Hora</th>
-      <th width="22%">Bloque Académico</th>
-      <th>Tema</th> <!-- Sin ancho para que sea flexible -->
-      <th width="200px">Recursos</th> <!-- ancho fijo -->
-    </tr>
-    <!-- 10 de septiembre -->
-    <tr>
-      <td>10 de septiembre<br />Presencial</td>
-      <td>10h30 a 13h30</td>
-      <td>Aplicaciones de Python en Ciencia, Ingeniería y Datos con Google Colab</td>
-      <td>
-        Fundamentos de Python<br />
-        &nbsp;&nbsp;&nbsp;• Manejo de Archivos en Colab<br />
-        &nbsp;&nbsp;&nbsp;• Librerías Fundamentales para Análisis<br />
-        &nbsp;&nbsp;&nbsp;• Análisis Estadístico y Numérico Aplicado </br>
-        &nbsp;&nbsp;&nbsp;• Conceptos Clave y Buenas Prácticas
-      </td>
-      <td>
-        • <a href="https://github.com/Zexc4/Seminario-Taller-Buenas-practicas-en-la-Investigacion-Cuantitativa/blob/main/Jupyter%20Notebook/Introduccion_Python.ipynb">Jupyter Notebook</a><br />
-      </td>
-    </tr>
-    <!-- 11 de septiembre -->
-    <tr>
-      <td>11 de septiembre<br />Virtual</td>
-      <td>Por Definir</td>
-      <td>Aplicaciones</td>
-      <td>
-        Tipos de investigación cuantitativa<br />
-        &nbsp;&nbsp;&nbsp;• Experimental<br />
-        &nbsp;&nbsp;&nbsp;• Cuasi experimental<br />
-        &nbsp;&nbsp;&nbsp;• Ejemplos prácticos
-      </td>
-      <td>
-        • <a href="">Jupyter Notebook</a><br />
-        • <a href="">Cuaderno de Trabajo</a><br />
-        • <a href="https://statisticsglobe.com/wp-content/uploads/2023/09/data_pca_200x16.csv">PCA Dataset</a><br />
-        • <a href=""> Dataset 3</a><br />
-        • <a href="">Dataset 3</a><br />
-      </td>
-    </tr>
-  </table>
-</div>
-                                                
+</div>             
 ---
 
 ## Referencias
@@ -259,16 +207,18 @@ Facultad de Ciencias Químicas, Universidad Central del Ecuador
 
 ## Licencia
 
-Este seminario-taller está organizado por la **Universidad Central del Ecuador** y se encuentra bajo la [**Licencia Creative Commons Atribución-No Comercial-Sin Derivadas 4.0 Internacional**](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Este seminario-taller está organizado por la Universidad Central del Ecuador y se encuentra bajo la Licencia MIT.
 
 Esto significa que:
-- **Pueden compartir** el contenido **solo de manera no comercial**.
-- **No se puede modificar** ni realizar obras derivadas basadas en el contenido original.
-- **Siempre se debe atribuir** adecuadamente a los autores y la institución correspondiente.
 
-El uso comercial o la modificación del material están estrictamente prohibidos, y la obra debe ser **reproducida tal cual** como se proporciona.
+- Se permite el uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta del contenido.
+- El contenido puede ser reutilizado en proyectos personales, académicos o comerciales.
+- No se imponen restricciones significativas siempre que se incluya la nota de copyright y la licencia original en cualquier copia sustancial del contenido.
 
-Para más detalles, consulta la licencia completa en [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+**Importante:** Este material se proporciona “tal cual”, sin garantía de ningún tipo, expresa o implícita.
+
+Para más detalles, puedes consultar la licencia completa en: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+
 
 <br>
 <p align="center">
